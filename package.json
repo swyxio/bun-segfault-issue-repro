@@ -1,1 +1,21 @@
-{ "dependencies": { "bun-types": "^0.0.83", "react": "latest", "react-dom": "^18.2.0" } }
+{
+  "name": "@bun-examples/next",
+  "version": "0.0.51",
+  "main": "index.js",
+  "dependencies": {
+    "@markdoc/markdoc": "^0.1.3",
+    "@types/react": "^18.0.15",
+    "@types/react-dom": "^18.0.6",
+    "bun-types": "^0.0.83",
+    "react": "latest",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "typescript": "latest"
+  },
+  "bun-create": {
+    "postinstall": [
+      "bun bun ./src/pages/index.tsx"
+    ]
+  }
+}
