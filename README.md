@@ -22,4 +22,4 @@ it does not segfault when you go to the other routes.
 
 https://github.com/Jarred-Sumner/bun/issues/216
 
-livestream of process https://www.youtube.com/watch?v=VFKQvdWwuxw
+livestream of process https://www.youtube.com/watch?v=VFKQvdWwuxw&t=8400s
