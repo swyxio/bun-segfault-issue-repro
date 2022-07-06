@@ -2,8 +2,6 @@
 
 Here i was messing around trying to make a static site React generator in Bun. However I ran into this segfault issue and decided to commit it so you can repro.
 
-
-
 ## steps to repro
 
 ```bash
@@ -23,3 +21,5 @@ it does not segfault when you go to the other routes.
 ## tracking issue
 
 https://github.com/Jarred-Sumner/bun/issues/216
+
+livestream of process https://www.youtube.com/watch?v=VFKQvdWwuxw
