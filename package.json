@@ -17,5 +17,6 @@
     "postinstall": [
       "bun bun ./src/pages/index.tsx"
     ]
-  }
+  },
+  "license": "MIT"
 }
