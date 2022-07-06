@@ -19,3 +19,7 @@ you will see a segfault
 ![image](https://user-images.githubusercontent.com/6764957/177436562-83752a00-2720-46f7-a448-19e6fc74927b.png)
 
 it does not segfault when you go to the other routes.
+
+## tracking issue
+
+https://github.com/Jarred-Sumner/bun/issues/216
