@@ -7,6 +7,8 @@ Here i was messing around trying to make a static site React generator in Bun. H
 ```bash
 git clone https://github.com/sw-yx/bun-segfault-issue-repro
 
+bun install
+
 bun run http.js
 ```
 
